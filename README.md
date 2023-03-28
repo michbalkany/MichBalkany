@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Mich(ael) Balkany</h1>
-<h3 align="center">A Full-Stack Developer located in the hear of Miami, Florida ☀️ </h3>
+<h3 align="center">A Full-Stack Developer located in the heart of Miami, Florida ☀️ </h3>
 
 I am a newly certified Full-Stack Developer and Licensed manufacturer for Edibles in the Cannabis industry. Programming, surfing, studying about cannabis, and meeting new people are a few things i love to include in my daily life.
 
@@ -13,3 +13,6 @@ As a developer, learning how to figure out new challenges pushes me to think dif
 - 💬 Ask me anything and ill do my best to answer : )
 - 📫 How to reach me: askmitchb@gmail.com
 - ⚡ Fun fact: i was born and raised in Liverpool, England. 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
