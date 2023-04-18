@@ -15,7 +15,7 @@ As a developer, learning how to figure out new challenges pushes me to think dif
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/michael-balkany-4ba217267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-balkany-4ba217267/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michael-balkany-4ba217267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-balkany-4ba217267/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
