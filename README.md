@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mich(ael) Balkany</h1>
-<h3 align="center">An iOS Developer located in the heart of Miami, Florida ☀️</h3>
+<h3 align="center">A iOS Developer located in the heart of Miami, Florida ☀️</h3>
 
 I am an iOS developer and Licensed manufacturer for Edibles in the Cannabis industry. Programming, surfing, studying about cannabis, and meeting new people are a few things i love to include in my daily life.
 
