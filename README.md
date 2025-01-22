@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mich(ael) Balkany</h1>
-<h3 align="center">An iOS Developer located in the heart of Miami, Florida ☀️</h3>
+<h3 align="center">A Cybersecurity Enthusiast and iOS Developer located in the heart of Miami, Florida ☀️</h3>
 
-A Cybersecurity Enthusiast and iOS Developer located in the heart of Miami, Florida ☀️
+
 While I originally started my tech journey with iOS development and working as a licensed manufacturer for edibles in the cannabis industry, my current passion lies deeply in the realm of cybersecurity. Daily, I'm immersed in learning about secure coding practices, network security, and the latest in cyber threat intelligence.
 
 As a developer, embracing new challenges is what drives me. Stepping out of my comfort zone is now a crucial part of my daily goals—whether it's mastering an unfamiliar programming language, collaborating with other tech professionals, or enhancing secure practices in software development.
