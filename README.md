@@ -1,17 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Mich(ael) Balkany</h1>
 <h3 align="center">An iOS Developer located in the heart of Miami, Florida ☀️</h3>
 
-I am an iOS developer and Licensed manufacturer for Edibles in the Cannabis industry. Programming, surfing, researching cannabis and psychedelics, and meeting new people are a few things i love to include in my daily life.
+A Cybersecurity Enthusiast and iOS Developer located in the heart of Miami, Florida ☀️
+While I originally started my tech journey with iOS development and working as a licensed manufacturer for edibles in the cannabis industry, my current passion lies deeply in the realm of cybersecurity. Daily, I'm immersed in learning about secure coding practices, network security, and the latest in cyber threat intelligence.
 
-As a developer, learning how to figure out new challenges pushes me to think differently. It is a new addition to my daily goals i strive to reach. i am learning how to step out of my circle to connect, create, and conquer. that includes learning an unfamiliar language for collaborated projects, connect with other developers in similar environments, and learn better practices for coding.
+As a developer, embracing new challenges is what drives me. Stepping out of my comfort zone is now a crucial part of my daily goals—whether it's mastering an unfamiliar programming language, collaborating with other tech professionals, or enhancing secure practices in software development.
 
-- 🔭 I’m currently working on sharpening my Swift delevopment skills through collaboration projects with developers around the world
-- 🌱 I’m currently learning **iOS Development** 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me anything and ill do my best to answer : )
-- 📫 How to reach me: askmitchb@gmail.com
-- ⚡ Fun fact: i was born and raised in Liverpool, England. 
+🔭 I’m currently focusing on cybersecurity applications within iOS environments, working on projects that integrate secure user experiences.
+🌱 I’m actively enhancing my skills in Python and network security, exploring how to better safeguard digital assets.
+💬 Got questions about iOS development or cybersecurity? Feel free to reach out—I’m always eager to connect and share insights.
+📫 How to reach me: askmitchb@gmail.com
+⚡ Fun fact: Although now based in Miami, I was born and raised in Liverpool, England.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
